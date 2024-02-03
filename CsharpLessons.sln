@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwichCase", "SwichCase\Swic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnteredNumberSum", "EnteredNumberSum\EnteredNumberSum.csproj", "{98D885D1-67E4-4460-826F-7131DBF167F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{FB6162D9-ABDD-4CE4-94D6-0D835697EBE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{98D885D1-67E4-4460-826F-7131DBF167F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98D885D1-67E4-4460-826F-7131DBF167F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D885D1-67E4-4460-826F-7131DBF167F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6162D9-ABDD-4CE4-94D6-0D835697EBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6162D9-ABDD-4CE4-94D6-0D835697EBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6162D9-ABDD-4CE4-94D6-0D835697EBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6162D9-ABDD-4CE4-94D6-0D835697EBE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
