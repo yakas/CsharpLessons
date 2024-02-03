@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConvert", "DataConvert\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwichCase", "SwichCase\SwichCase.csproj", "{75CBB358-46CD-4574-AAA5-0FFC7B4DF921}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnteredNumberSum", "EnteredNumberSum\EnteredNumberSum.csproj", "{98D885D1-67E4-4460-826F-7131DBF167F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{75CBB358-46CD-4574-AAA5-0FFC7B4DF921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75CBB358-46CD-4574-AAA5-0FFC7B4DF921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75CBB358-46CD-4574-AAA5-0FFC7B4DF921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D885D1-67E4-4460-826F-7131DBF167F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D885D1-67E4-4460-826F-7131DBF167F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D885D1-67E4-4460-826F-7131DBF167F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D885D1-67E4-4460-826F-7131DBF167F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

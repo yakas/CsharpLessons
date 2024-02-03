@@ -15,34 +15,42 @@ namespace SwichCase
             Console.WriteLine("3-Çarpma");
             Console.WriteLine("4-Bölme");
             Console.WriteLine();
-            Console.Write("Yapmak istediginiz islem nedir :");
-            int secim = Convert.ToInt16(Console.ReadLine());
-            Console.Write("İlk sayiyi giriniz:");
-            int sayi1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
-            Console.Write("ikinci sayiyi giriniz :");
-            int sayi2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
-            switch (secim)
+
+            do
             {
-                case 1:Console.WriteLine("sayilarin toplami :"+(sayi1+sayi2));
-                    Console.ReadLine();
-                    break;
-                case 2: Console.WriteLine("iki sayinin farki :" + (sayi1 - sayi2));
-                    Console.ReadLine();
-                    break;
-                case 3: Console.WriteLine("iki sayinin carpimi :" + (sayi1 * sayi2));
-                    Console.ReadLine();
-                    break;
-                case 4: Console.WriteLine("iki sayinin bolumu :" + (sayi1 / sayi2));
-                    Console.ReadLine();
-                    break;
-                default: Console.WriteLine("Hatalı secim");
+                Console.Write("İlk sayiyi giriniz:");
+                int sayi1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
+                Console.Write("ikinci sayiyi giriniz :");
+                int sayi2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
+                Console.Write("Yapmak istediginiz islem nedir :");
+                int secim = Convert.ToInt16(Console.ReadLine());
 
-                    Console.ReadLine();
-                    break;
-            }
-
+                switch (secim)
+                {
+                    case 1:
+                        Console.WriteLine("sayilarin toplami :" + (sayi1 + sayi2));
+                        Console.ReadLine();
+                        continue;
+                    case 2:
+                        Console.WriteLine("iki sayinin farki :" + (sayi1 - sayi2));
+                        Console.ReadLine();
+                        continue;
+                    case 3:
+                        Console.WriteLine("iki sayinin carpimi :" + (sayi1 * sayi2));
+                        Console.ReadLine();
+                        continue;
+                    case 4:
+                        Console.WriteLine("iki sayinin bolumu :" + (sayi1 / sayi2));
+                        Console.ReadLine();
+                        continue;
+                    default:
+                        Console.WriteLine("Hatalı secim");
+                        Console.ReadLine();
+                        break;
+                }
+            } while (true);
 
         }
     }

@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\Csharp\CSharpKurs\CsharpLessons\SwichCase\obj\Debug\Swich
 C:\Users\yakup\Desktop\Csharp\CSharpKurs\CsharpLessons\SwichCase\obj\Debug\SwichCase.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\Csharp\CSharpKurs\CsharpLessons\SwichCase\obj\Debug\SwichCase.exe
 C:\Users\yakup\Desktop\Csharp\CSharpKurs\CsharpLessons\SwichCase\obj\Debug\SwichCase.pdb
+C:\Users\yakup\Desktop\CsharpLessons\SwichCase\bin\Debug\SwichCase.exe.config
+C:\Users\yakup\Desktop\CsharpLessons\SwichCase\bin\Debug\SwichCase.exe
+C:\Users\yakup\Desktop\CsharpLessons\SwichCase\bin\Debug\SwichCase.pdb
+C:\Users\yakup\Desktop\CsharpLessons\SwichCase\obj\Debug\SwichCase.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\CsharpLessons\SwichCase\obj\Debug\SwichCase.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\SwichCase\obj\Debug\SwichCase.exe
+C:\Users\yakup\Desktop\CsharpLessons\SwichCase\obj\Debug\SwichCase.pdb
