@@ -1,0 +1,7 @@
+C:\Users\yakup\Desktop\CsharpLessons\ErisimBelirleyicileri\obj\Debug\ErisimBelirleyicileri.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\CsharpLessons\ErisimBelirleyicileri\obj\Debug\ErisimBelirleyicileri.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\ErisimBelirleyicileri\bin\Debug\ErisimBelirleyicileri.exe.config
+C:\Users\yakup\Desktop\CsharpLessons\ErisimBelirleyicileri\bin\Debug\ErisimBelirleyicileri.exe
+C:\Users\yakup\Desktop\CsharpLessons\ErisimBelirleyicileri\bin\Debug\ErisimBelirleyicileri.pdb
+C:\Users\yakup\Desktop\CsharpLessons\ErisimBelirleyicileri\obj\Debug\ErisimBelirleyicileri.exe
+C:\Users\yakup\Desktop\CsharpLessons\ErisimBelirleyicileri\obj\Debug\ErisimBelirleyicileri.pdb
