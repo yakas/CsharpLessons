@@ -12,7 +12,7 @@ namespace ErisimBelirleyicileri
         {
             // 4 adet erisim belirleyici vardır.  Bunlar public---private---protected---internal
             // metodlara degiskenlere veririlirler.
-            Musteri musteri1 = new Musteri("ali", "e", 51, 300);
+            Musteri musteri1 = new Musteri("ali", "e", 51, 30000);
             musteri1.MusteriBilgileriYaz();
             //musteri1.maas bilgisine bu class tan ulasamiyorum.Cunku maas degiskeni private erisim belirleyicisiolarak  ayarlandi.
 
