@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesKullanimiGetAndSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethodUsage", "StaticMethodUsage\StaticMethodUsage.csproj", "{40874570-083E-4593-B304-BE0818EBA7C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticVariableUsage", "StaticVariableUsage\StaticVariableUsage.csproj", "{D928A4A0-1988-4633-8EE0-E6ED6FEB515A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{40874570-083E-4593-B304-BE0818EBA7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40874570-083E-4593-B304-BE0818EBA7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40874570-083E-4593-B304-BE0818EBA7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D928A4A0-1988-4633-8EE0-E6ED6FEB515A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D928A4A0-1988-4633-8EE0-E6ED6FEB515A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D928A4A0-1988-4633-8EE0-E6ED6FEB515A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D928A4A0-1988-4633-8EE0-E6ED6FEB515A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
