@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesKullanimiGetAndSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesKullanimiGetAndSetMethodsSamples", "PropertiesKullanimiGetAndSetMethodsSamples\PropertiesKullanimiGetAndSetMethodsSamples.csproj", "{4DDF7557-0F0D-4506-A7A6-DD1DE9B9CA86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethodUsage", "StaticMethodUsage\StaticMethodUsage.csproj", "{40874570-083E-4593-B304-BE0818EBA7C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{4DDF7557-0F0D-4506-A7A6-DD1DE9B9CA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DDF7557-0F0D-4506-A7A6-DD1DE9B9CA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DDF7557-0F0D-4506-A7A6-DD1DE9B9CA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40874570-083E-4593-B304-BE0818EBA7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40874570-083E-4593-B304-BE0818EBA7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40874570-083E-4593-B304-BE0818EBA7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40874570-083E-4593-B304-BE0818EBA7C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
