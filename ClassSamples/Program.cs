@@ -10,7 +10,7 @@ namespace ClassSamples
     {
         static void Main(string[] args)
         {
-            /*Araba araba1 = new Araba();      // araba class'dan yenir araba objesi olusturdum.Burada Araba() metodunu calistirir.Derleyici sagdan calisir.
+            /*Araba araba1 = new Araba();      // araba class'dan yeni bir araba objesi olusturdum.Burada Araba() metodunu calistirir.Derleyici sagdan calisir.
                                              // ilk olarak Araba() metodu calistirilir.
             
 

@@ -1,0 +1,7 @@
+C:\Users\yakup\Desktop\CsharpLessons\PropertiesKullanimi\bin\Debug\PropertiesKullanimi.exe.config
+C:\Users\yakup\Desktop\CsharpLessons\PropertiesKullanimi\bin\Debug\PropertiesKullanimi.exe
+C:\Users\yakup\Desktop\CsharpLessons\PropertiesKullanimi\bin\Debug\PropertiesKullanimi.pdb
+C:\Users\yakup\Desktop\CsharpLessons\PropertiesKullanimi\obj\Debug\PropertiesKullanimi.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\CsharpLessons\PropertiesKullanimi\obj\Debug\PropertiesKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\PropertiesKullanimi\obj\Debug\PropertiesKullanimi.exe
+C:\Users\yakup\Desktop\CsharpLessons\PropertiesKullanimi\obj\Debug\PropertiesKullanimi.pdb

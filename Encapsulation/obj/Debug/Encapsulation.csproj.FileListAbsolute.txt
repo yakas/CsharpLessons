@@ -1,0 +1,7 @@
+C:\Users\yakup\Desktop\CsharpLessons\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\yakup\Desktop\CsharpLessons\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\yakup\Desktop\CsharpLessons\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\CsharpLessons\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\yakup\Desktop\CsharpLessons\Encapsulation\obj\Debug\Encapsulation.pdb
