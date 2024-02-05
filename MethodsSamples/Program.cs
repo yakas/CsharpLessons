@@ -33,7 +33,7 @@ namespace MethodsSamples
         ////////////////////////////////////////////////////////////////////////
         static string TekmiCiftmi(int sayi)
         {
-            string sonuc;
+            string sonuc="";
             if (sayi % 2 == 0)
             {
                 return sonuc = "sayi cift";

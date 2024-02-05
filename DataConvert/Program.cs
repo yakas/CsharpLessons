@@ -21,7 +21,7 @@ namespace DataConvert
             short f = Convert.ToInt16(e);
 
             f = 1500;
-            e = Convert.ToByte(f);
+            
 
 
 
