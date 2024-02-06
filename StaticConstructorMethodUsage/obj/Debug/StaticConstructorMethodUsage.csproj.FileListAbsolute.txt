@@ -1,0 +1,7 @@
+C:\Users\yakup\Desktop\CsharpLessons\StaticConstructorMethodUsage\bin\Debug\StaticConstructorMethodUsage.exe.config
+C:\Users\yakup\Desktop\CsharpLessons\StaticConstructorMethodUsage\bin\Debug\StaticConstructorMethodUsage.exe
+C:\Users\yakup\Desktop\CsharpLessons\StaticConstructorMethodUsage\bin\Debug\StaticConstructorMethodUsage.pdb
+C:\Users\yakup\Desktop\CsharpLessons\StaticConstructorMethodUsage\obj\Debug\StaticConstructorMethodUsage.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\CsharpLessons\StaticConstructorMethodUsage\obj\Debug\StaticConstructorMethodUsage.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\StaticConstructorMethodUsage\obj\Debug\StaticConstructorMethodUsage.exe
+C:\Users\yakup\Desktop\CsharpLessons\StaticConstructorMethodUsage\obj\Debug\StaticConstructorMethodUsage.pdb
