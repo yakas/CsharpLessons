@@ -1,0 +1,7 @@
+C:\Users\yakup\Desktop\CsharpLessons\IndexerSamples\bin\Debug\IndexerSamples.exe.config
+C:\Users\yakup\Desktop\CsharpLessons\IndexerSamples\bin\Debug\IndexerSamples.exe
+C:\Users\yakup\Desktop\CsharpLessons\IndexerSamples\bin\Debug\IndexerSamples.pdb
+C:\Users\yakup\Desktop\CsharpLessons\IndexerSamples\obj\Debug\IndexerSamples.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\CsharpLessons\IndexerSamples\obj\Debug\IndexerSamples.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\IndexerSamples\obj\Debug\IndexerSamples.exe
+C:\Users\yakup\Desktop\CsharpLessons\IndexerSamples\obj\Debug\IndexerSamples.pdb
