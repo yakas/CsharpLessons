@@ -13,6 +13,8 @@ namespace ArrayList
     {
         static void Main(string[] args)
         {
+            // koleksiyon
+            // dizilerde önceden eleman sayisi belirtilirken ArrayList'de belirtmemiz gerekmiyor.
             /*ArrayList bizim istediğimiz tipteki degerlerimizi tutan içinde yardımcı metodlar bulunduran bir classtır.
 
             string[] isimler = { "ali", "veli", "cemil", "yusuf" };// ilkel (primitive) diziyi bu şekilde tanımlıyorduk.
@@ -22,7 +24,7 @@ namespace ArrayList
             }
 
             Console.ReadLine();
-            */
+            
             System.Collections.ArrayList collection = new System.Collections.ArrayList();
             //collection. yazarsak  bu sekilde ArrayList class'ın icindeki bütün metodlara ulaşabiliriz.
             collection.Add("yakup");
@@ -34,7 +36,24 @@ namespace ArrayList
             {
                 Console.WriteLine(a);
             }
+            */
+            System.Collections.ArrayList list = new  System.Collections.ArrayList();
+            list.Add("selma");
+            list.Add(12);
+            list.Add("serap");
+            list.Add("yakup");
+            list.Add(false);
+            
 
+            foreach (var eleman in list) // eleman object türü cinsinden bir degiskendir.
+            {
+                if (eleman is int)  // is operatörü object veri tipi kontrolü yapar.Burada veri tipi "int" ise anlamında
+                {
+                    Console.WriteLine((int)eleman + 100);
+                }
+
+            }
+            /*
             Console.ReadLine();
             //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
             int dizininElemanSayisi = collection.Count;// ArrayList Count metodu ---arraylistin eleman sayısını int olarak verir.
@@ -77,7 +96,7 @@ namespace ArrayList
                 Console.WriteLine(a);
             }
             Console.ReadLine();
-            
+            */
 
         }
     }
