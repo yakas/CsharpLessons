@@ -10,7 +10,8 @@ namespace InheritanceDeneme
     {
         public int uzunluk;
         public string color;
-        public B(string str):base(2)
+        public B(string str):base(2) // A class parametre aldıgından base() ile A classın aldıgı
+                                         // parametre cinsinden ekleme yapılır
         {
             uzunluk = 0;
             str = color;

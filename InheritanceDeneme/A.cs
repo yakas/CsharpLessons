@@ -12,7 +12,8 @@ namespace InheritanceDeneme
         public int id;
         public string name;
         public string description;
-        public A(int sayi)
+        public A(int sayi) // Contructor metod parametre alırsa A sınıftan kalıtım alan B class
+                           // icin base() ifadesiye A classın aldıgı parametre tipinde ekleme yapılır.
         {
             sayi += 2;
         
