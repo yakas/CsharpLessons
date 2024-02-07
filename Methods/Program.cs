@@ -10,6 +10,16 @@ namespace Methods
     {
         public static void Main(string[] args)
         {
+            
+            //**************************************************************************************************************
+            //  METODLARIN GENEL YAPISI ASAGIDAKI GIBIDIR.
+            //
+            //  erisim belirleyicisi + geri dönüş tipi + metod adı ()
+            //  {
+            //    işlemler
+            //  }
+            
+            
             Hello();// deger dondurmeyen method
 
             int carpiSonucu=VerilenIkiSayiyiCarp(3, 2); // deger donduren method
