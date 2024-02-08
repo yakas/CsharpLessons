@@ -33,14 +33,14 @@ namespace MethodsSamples
         ////////////////////////////////////////////////////////////////////////
         static string TekmiCiftmi(int sayi)
         {
-            string sonuc="";
+            
             if (sayi % 2 == 0)
             {
-                return sonuc = "sayi cift";
+                return "sayi cift";
             }
             else
             {
-                return sonuc = "sayi tek";
+                return "sayi tek";
             }
 
         }

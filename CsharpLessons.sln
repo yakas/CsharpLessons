@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndOverride", "Virtu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfizm", "Polimorfizm\Polimorfizm.csproj", "{A91DD743-17C5-40FC-AC73-4BC2EF27FE06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassSoyutSınıfYapısı", "AbstractClassSoyutSınıfYapısı\AbstractClassSoyutSınıfYapısı.csproj", "{D3A071C3-98C8-48B6-89DC-8AE84B420D18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{A91DD743-17C5-40FC-AC73-4BC2EF27FE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A91DD743-17C5-40FC-AC73-4BC2EF27FE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A91DD743-17C5-40FC-AC73-4BC2EF27FE06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A071C3-98C8-48B6-89DC-8AE84B420D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A071C3-98C8-48B6-89DC-8AE84B420D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A071C3-98C8-48B6-89DC-8AE84B420D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A071C3-98C8-48B6-89DC-8AE84B420D18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
