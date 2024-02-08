@@ -16,7 +16,7 @@ namespace AbstractClassSoyutSınıfYapısı
             //yapıya abstract class yapısı diyoruz.Bir base class'da herhangi bir metod "virtual" olarak
             //belirtilmiş ise biz bu metodu yada property'i derived yani kalitim alan child class'da
             //override ederek kullanabiliyorduk.Aslinda abstract class bu işlemi yapan sınıftır.
-            //Abstrac class bu virtual ve override işlemini zorunlu kılmaktadır.
+            //Abstrac class bu virtual ve override işlemini zorunlu kılmaktadır
         }
 
     }
