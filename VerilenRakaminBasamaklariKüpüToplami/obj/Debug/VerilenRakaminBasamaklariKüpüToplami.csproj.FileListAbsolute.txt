@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\
 C:\Users\yakup\Desktop\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\Debug\VerilenRakaminBasamaklariKüpüToplami.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\Debug\VerilenRakaminBasamaklariKüpüToplami.exe
 C:\Users\yakup\Desktop\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\Debug\VerilenRakaminBasamaklariKüpüToplami.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\bin\Debug\VerilenRakaminBasamaklariKüpüToplami.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\bin\Debug\VerilenRakaminBasamaklariKüpüToplami.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\bin\Debug\VerilenRakaminBasamaklariKüpüToplami.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\Debug\VerilenRakaminBasamaklariKüpüToplami.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\Debug\VerilenRakaminBasamaklariKüpüToplami.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\Debug\VerilenRakaminBasamaklariKüpüToplami.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\VerilenRakaminBasamaklariKüpüToplami\obj\Debug\VerilenRakaminBasamaklariKüpüToplami.pdb

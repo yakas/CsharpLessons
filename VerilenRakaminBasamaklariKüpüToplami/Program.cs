@@ -38,7 +38,7 @@ namespace VerilenRakaminBasamaklariKüpüToplami
                     
                 }
 
-                if (basamakKup == sayiInt)
+                if (basamakKupToplam == sayiInt)
                 {
                     Console.WriteLine("Sayinin basamaklarinin küpleri toplamı "+basamakKupToplam+" kendisine "+sayiInt+" esitdir.");
                     Console.ReadLine();
