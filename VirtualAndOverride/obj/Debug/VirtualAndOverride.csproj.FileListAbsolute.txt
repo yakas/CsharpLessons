@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\VirtualAndOverride\bin\Debug\VirtualAndOver
 C:\Users\yakup\Desktop\CsharpLessons\VirtualAndOverride\bin\Debug\VirtualAndOverride.pdb
 C:\Users\yakup\Desktop\CsharpLessons\VirtualAndOverride\obj\Debug\VirtualAndOverride.exe
 C:\Users\yakup\Desktop\CsharpLessons\VirtualAndOverride\obj\Debug\VirtualAndOverride.pdb
+C:\Users\yakup\source\repos\CsharpLessons\VirtualAndOverride\bin\Debug\VirtualAndOverride.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\VirtualAndOverride\bin\Debug\VirtualAndOverride.exe
+C:\Users\yakup\source\repos\CsharpLessons\VirtualAndOverride\bin\Debug\VirtualAndOverride.pdb
+C:\Users\yakup\source\repos\CsharpLessons\VirtualAndOverride\obj\Debug\VirtualAndOverride.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\VirtualAndOverride\obj\Debug\VirtualAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\VirtualAndOverride\obj\Debug\VirtualAndOverride.exe
+C:\Users\yakup\source\repos\CsharpLessons\VirtualAndOverride\obj\Debug\VirtualAndOverride.pdb

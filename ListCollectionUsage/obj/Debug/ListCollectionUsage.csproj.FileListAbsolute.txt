@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectio
 C:\Users\yakup\Desktop\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectionUsage.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectionUsage.exe
 C:\Users\yakup\Desktop\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectionUsage.pdb
+C:\Users\yakup\source\repos\CsharpLessons\ListCollectionUsage\bin\Debug\ListCollectionUsage.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\ListCollectionUsage\bin\Debug\ListCollectionUsage.exe
+C:\Users\yakup\source\repos\CsharpLessons\ListCollectionUsage\bin\Debug\ListCollectionUsage.pdb
+C:\Users\yakup\source\repos\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectionUsage.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectionUsage.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectionUsage.exe
+C:\Users\yakup\source\repos\CsharpLessons\ListCollectionUsage\obj\Debug\ListCollectionUsage.pdb

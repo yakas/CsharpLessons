@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum
 C:\Users\yakup\Desktop\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum.exe
 C:\Users\yakup\Desktop\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum.pdb
+C:\Users\yakup\source\repos\CsharpLessons\EnteredNumberSum\bin\Debug\EnteredNumberSum.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\EnteredNumberSum\bin\Debug\EnteredNumberSum.exe
+C:\Users\yakup\source\repos\CsharpLessons\EnteredNumberSum\bin\Debug\EnteredNumberSum.pdb
+C:\Users\yakup\source\repos\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum.exe
+C:\Users\yakup\source\repos\CsharpLessons\EnteredNumberSum\obj\Debug\EnteredNumberSum.pdb

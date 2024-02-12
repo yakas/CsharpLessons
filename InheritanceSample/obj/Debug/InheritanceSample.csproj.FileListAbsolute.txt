@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSamp
 C:\Users\yakup\Desktop\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSample.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSample.exe
 C:\Users\yakup\Desktop\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSample.pdb
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceSample\bin\Debug\InheritanceSample.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceSample\bin\Debug\InheritanceSample.exe
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceSample\bin\Debug\InheritanceSample.pdb
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSample.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSample.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSample.exe
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceSample\obj\Debug\InheritanceSample.pdb

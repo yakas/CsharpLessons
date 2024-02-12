@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\Arrays\obj\Debug\Arrays.csproj.AssemblyRefe
 C:\Users\yakup\Desktop\CsharpLessons\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\Arrays\obj\Debug\Arrays.exe
 C:\Users\yakup\Desktop\CsharpLessons\Arrays\obj\Debug\Arrays.pdb
+C:\Users\yakup\source\repos\CsharpLessons\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\Arrays\bin\Debug\Arrays.exe
+C:\Users\yakup\source\repos\CsharpLessons\Arrays\bin\Debug\Arrays.pdb
+C:\Users\yakup\source\repos\CsharpLessons\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\Arrays\obj\Debug\Arrays.exe
+C:\Users\yakup\source\repos\CsharpLessons\Arrays\obj\Debug\Arrays.pdb

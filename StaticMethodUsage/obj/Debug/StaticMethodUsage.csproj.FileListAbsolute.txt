@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsa
 C:\Users\yakup\Desktop\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsage.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsage.exe
 C:\Users\yakup\Desktop\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsage.pdb
+C:\Users\yakup\source\repos\CsharpLessons\StaticMethodUsage\bin\Debug\StaticMethodUsage.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\StaticMethodUsage\bin\Debug\StaticMethodUsage.exe
+C:\Users\yakup\source\repos\CsharpLessons\StaticMethodUsage\bin\Debug\StaticMethodUsage.pdb
+C:\Users\yakup\source\repos\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsage.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsage.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsage.exe
+C:\Users\yakup\source\repos\CsharpLessons\StaticMethodUsage\obj\Debug\StaticMethodUsage.pdb

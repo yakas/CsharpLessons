@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\DataConvert\obj\Debug\DataConvert.csproj.As
 C:\Users\yakup\Desktop\CsharpLessons\DataConvert\obj\Debug\DataConvert.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\DataConvert\obj\Debug\DataConvert.exe
 C:\Users\yakup\Desktop\CsharpLessons\DataConvert\obj\Debug\DataConvert.pdb
+C:\Users\yakup\source\repos\CsharpLessons\DataConvert\bin\Debug\DataConvert.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\DataConvert\bin\Debug\DataConvert.exe
+C:\Users\yakup\source\repos\CsharpLessons\DataConvert\bin\Debug\DataConvert.pdb
+C:\Users\yakup\source\repos\CsharpLessons\DataConvert\obj\Debug\DataConvert.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\DataConvert\obj\Debug\DataConvert.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\DataConvert\obj\Debug\DataConvert.exe
+C:\Users\yakup\source\repos\CsharpLessons\DataConvert\obj\Debug\DataConvert.pdb

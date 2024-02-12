@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\Methods\obj\Debug\Methods.csproj.AssemblyRe
 C:\Users\yakup\Desktop\CsharpLessons\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\Methods\obj\Debug\Methods.exe
 C:\Users\yakup\Desktop\CsharpLessons\Methods\obj\Debug\Methods.pdb
+C:\Users\yakup\source\repos\CsharpLessons\Methods\bin\Debug\Methods.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\Methods\bin\Debug\Methods.exe
+C:\Users\yakup\source\repos\CsharpLessons\Methods\bin\Debug\Methods.pdb
+C:\Users\yakup\source\repos\CsharpLessons\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\Methods\obj\Debug\Methods.exe
+C:\Users\yakup\source\repos\CsharpLessons\Methods\obj\Debug\Methods.pdb

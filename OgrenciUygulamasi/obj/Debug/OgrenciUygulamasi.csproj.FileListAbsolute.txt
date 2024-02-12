@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulama
 C:\Users\yakup\Desktop\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.exe
 C:\Users\yakup\Desktop\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.pdb
+C:\Users\yakup\source\repos\CsharpLessons\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.exe
+C:\Users\yakup\source\repos\CsharpLessons\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.pdb
+C:\Users\yakup\source\repos\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.exe
+C:\Users\yakup\source\repos\CsharpLessons\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.pdb

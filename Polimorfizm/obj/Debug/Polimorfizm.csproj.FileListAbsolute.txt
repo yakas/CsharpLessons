@@ -1,0 +1,7 @@
+C:\Users\yakup\source\repos\CsharpLessons\Polimorfizm\bin\Debug\Polimorfizm.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\Polimorfizm\bin\Debug\Polimorfizm.exe
+C:\Users\yakup\source\repos\CsharpLessons\Polimorfizm\bin\Debug\Polimorfizm.pdb
+C:\Users\yakup\source\repos\CsharpLessons\Polimorfizm\obj\Debug\Polimorfizm.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\Polimorfizm\obj\Debug\Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\Polimorfizm\obj\Debug\Polimorfizm.exe
+C:\Users\yakup\source\repos\CsharpLessons\Polimorfizm\obj\Debug\Polimorfizm.pdb

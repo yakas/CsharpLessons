@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariabl
 C:\Users\yakup\Desktop\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariableUsage.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariableUsage.exe
 C:\Users\yakup\Desktop\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariableUsage.pdb
+C:\Users\yakup\source\repos\CsharpLessons\StaticVariableUsage\bin\Debug\StaticVariableUsage.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\StaticVariableUsage\bin\Debug\StaticVariableUsage.exe
+C:\Users\yakup\source\repos\CsharpLessons\StaticVariableUsage\bin\Debug\StaticVariableUsage.pdb
+C:\Users\yakup\source\repos\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariableUsage.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariableUsage.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariableUsage.exe
+C:\Users\yakup\source\repos\CsharpLessons\StaticVariableUsage\obj\Debug\StaticVariableUsage.pdb

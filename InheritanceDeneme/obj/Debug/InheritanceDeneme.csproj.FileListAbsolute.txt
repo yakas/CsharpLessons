@@ -1,0 +1,7 @@
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceDeneme\bin\Debug\InheritanceDeneme.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceDeneme\bin\Debug\InheritanceDeneme.exe
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceDeneme\bin\Debug\InheritanceDeneme.pdb
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceDeneme\obj\Debug\InheritanceDeneme.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceDeneme\obj\Debug\InheritanceDeneme.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceDeneme\obj\Debug\InheritanceDeneme.exe
+C:\Users\yakup\source\repos\CsharpLessons\InheritanceDeneme\obj\Debug\InheritanceDeneme.pdb

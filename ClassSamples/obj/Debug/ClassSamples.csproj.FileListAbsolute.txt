@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.csproj.
 C:\Users\yakup\Desktop\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.exe
 C:\Users\yakup\Desktop\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.pdb
+C:\Users\yakup\source\repos\CsharpLessons\ClassSamples\bin\Debug\ClassSamples.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\ClassSamples\bin\Debug\ClassSamples.exe
+C:\Users\yakup\source\repos\CsharpLessons\ClassSamples\bin\Debug\ClassSamples.pdb
+C:\Users\yakup\source\repos\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.exe
+C:\Users\yakup\source\repos\CsharpLessons\ClassSamples\obj\Debug\ClassSamples.pdb
