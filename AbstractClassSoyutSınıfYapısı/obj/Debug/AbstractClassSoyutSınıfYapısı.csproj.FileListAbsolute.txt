@@ -1,0 +1,7 @@
+C:\Users\yakup\source\repos\CsharpLessons\AbstractClassSoyutSınıfYapısı\bin\Debug\AbstractClassSoyutSınıfYapısı.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\AbstractClassSoyutSınıfYapısı\bin\Debug\AbstractClassSoyutSınıfYapısı.exe
+C:\Users\yakup\source\repos\CsharpLessons\AbstractClassSoyutSınıfYapısı\bin\Debug\AbstractClassSoyutSınıfYapısı.pdb
+C:\Users\yakup\source\repos\CsharpLessons\AbstractClassSoyutSınıfYapısı\obj\Debug\AbstractClassSoyutSınıfYapısı.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\AbstractClassSoyutSınıfYapısı\obj\Debug\AbstractClassSoyutSınıfYapısı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\AbstractClassSoyutSınıfYapısı\obj\Debug\AbstractClassSoyutSınıfYapısı.exe
+C:\Users\yakup\source\repos\CsharpLessons\AbstractClassSoyutSınıfYapısı\obj\Debug\AbstractClassSoyutSınıfYapısı.pdb

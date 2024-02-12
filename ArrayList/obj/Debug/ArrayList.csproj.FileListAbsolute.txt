@@ -5,3 +5,10 @@ C:\Users\yakup\Desktop\CsharpLessons\ArrayList\obj\Debug\ArrayList.csproj.Assemb
 C:\Users\yakup\Desktop\CsharpLessons\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
 C:\Users\yakup\Desktop\CsharpLessons\ArrayList\obj\Debug\ArrayList.exe
 C:\Users\yakup\Desktop\CsharpLessons\ArrayList\obj\Debug\ArrayList.pdb
+C:\Users\yakup\source\repos\CsharpLessons\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\yakup\source\repos\CsharpLessons\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\yakup\source\repos\CsharpLessons\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\yakup\source\repos\CsharpLessons\ArrayList\obj\Debug\ArrayList.pdb
