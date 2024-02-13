@@ -206,6 +206,9 @@ namespace Arrays
                 Console.WriteLine(isimler.GetValue(i));
                 
             }
+            Array sayilar=Array.CreateInstance(typeof(int),3);// Type ElementType gördüğümüz yere 'typeof(type)' olarak giriyoruz.
+                                                              // Bu şekildede bir int tipinde bir Array oluşturmuş olduk.
+
             
 
 
