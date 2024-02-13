@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Continue Kullanımı")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2cd8570cde55cb83c21a911a225d3483138186f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc59c83a7e1922190ceeab9f7c7be85c492aa9dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Continue Kullanımı")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Continue Kullanımı")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
