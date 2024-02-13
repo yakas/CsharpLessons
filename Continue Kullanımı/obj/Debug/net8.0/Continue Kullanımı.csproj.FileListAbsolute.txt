@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\bin\Debug\net8.0\Continue Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\bin\Debug\net8.0\Continue Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\bin\Debug\net8.0\Continue Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\bin\Debug\net8.0\Continue Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\bin\Debug\net8.0\Continue Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\refint\Continue Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\Continue Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Continue Kullanımı\obj\Debug\net8.0\ref\Continue Kullanımı.dll
