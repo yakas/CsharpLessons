@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerilenRakaminBasamaklariK�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{E4832485-1931-40C8-8F04-B0DCB226DBFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continue Kullanımı", "Continue Kullanımı\Continue Kullanımı.csproj", "{7B61EC30-ACDF-43B2-8BEC-CB1FC1FC6E72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{E4832485-1931-40C8-8F04-B0DCB226DBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4832485-1931-40C8-8F04-B0DCB226DBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4832485-1931-40C8-8F04-B0DCB226DBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B61EC30-ACDF-43B2-8BEC-CB1FC1FC6E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B61EC30-ACDF-43B2-8BEC-CB1FC1FC6E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B61EC30-ACDF-43B2-8BEC-CB1FC1FC6E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B61EC30-ACDF-43B2-8BEC-CB1FC1FC6E72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

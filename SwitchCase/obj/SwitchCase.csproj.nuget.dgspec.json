@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\SwitchCase\\SwitchCase.csproj": {}
+    "C:\\Users\\yakup\\Desktop\\CsharpLessons\\SwitchCase\\SwitchCase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\SwitchCase\\SwitchCase.csproj": {
+    "C:\\Users\\yakup\\Desktop\\CsharpLessons\\SwitchCase\\SwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\SwitchCase\\SwitchCase.csproj",
+        "projectUniqueName": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\SwitchCase\\SwitchCase.csproj",
         "projectName": "SwitchCase",
-        "projectPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\SwitchCase\\SwitchCase.csproj",
+        "projectPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\SwitchCase\\SwitchCase.csproj",
         "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\SwitchCase\\obj\\",
+        "outputPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\SwitchCase\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yakup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
