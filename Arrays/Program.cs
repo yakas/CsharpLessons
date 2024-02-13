@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections;
+using System.Linq;
 
 namespace Arrays
 {
@@ -206,13 +208,13 @@ namespace Arrays
                 Console.WriteLine(isimler.GetValue(i));
                 
             }
+            // dizi tanımlaması aslında geri planda "CreatInstance" metodu ile oluşturulur.
             Array sayilar=Array.CreateInstance(typeof(int),3);// Type ElementType gördüğümüz yere 'typeof(type)' olarak giriyoruz.
                                                               // Bu şekildede bir int tipinde bir Array oluşturmuş olduk.
 
             
 
-
-
+            
         }
 
     }
