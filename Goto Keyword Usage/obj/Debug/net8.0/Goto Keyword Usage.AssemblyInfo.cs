@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SwitchCase")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Goto Keyword Usage")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9732bc098914120bdebba9a711c113a13fa4b718")]
-[assembly: System.Reflection.AssemblyProductAttribute("SwitchCase")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SwitchCase")]
+[assembly: System.Reflection.AssemblyProductAttribute("Goto Keyword Usage")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Goto Keyword Usage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

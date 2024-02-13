@@ -116,14 +116,17 @@ namespace Arrays
                 Console.WriteLine(kelimeler);
             }
             Console.ReadKey();
-            */
+            
             /////////////////////////////////////////////////////////////////////////////////////////
             // Kullanıcıdan 10 adet int deger alan ve asagıda verilenleri yapan bir program yazınız
             //1-Kaç adet tek,çift eleman olduğunu
             //2-Çift degerlerin toplamini,Tek degerlerin toplamini
             //3-Çift olanların toplami tek degerlerin toplamindan buyukse çift sayıların toplami büyüktür yoksa diğerini yazdırsın
             
-            int[] sayiDizisi = new int[10];
+            //Array sayiDizisi = new int[10];    //Array eşittir dizi.
+            //Önemli Array de index operatörü kullanılamaz. sayidizisi[i] olmaz.
+            int [] sayiDizisi = new int[10]; //Array eşittir dizi
+
             int cift = 0, ciftToplam = 0;
             int tek = 0, tekToplam = 0;
 
@@ -164,7 +167,46 @@ namespace Arrays
             }
 
             Console.ReadKey();
+            */
 
+            Array isimler = new string[6];
+            isimler.SetValue("Yakup", 0);
+            isimler.SetValue("Kazım", 1);
+            isimler.SetValue("Şebnem", 2);
+            isimler.SetValue("faruk", 3);
+            isimler.SetValue("Nilay", 4);
+            isimler.SetValue("Mahmut", 5);
+
+            for (int i = 0; i < isimler.Length; i++)
+            {
+                Console.WriteLine(isimler.GetValue(i));
+
+            }
+            Console.ReadLine();
+
+            int arananDegerVarmi=Array.IndexOf(isimler, "Şebnemm");
+            if (arananDegerVarmi != -1)
+            {
+                Console.WriteLine("Aranan deger vardır");
+            }
+            else
+            {
+                Console.WriteLine("Aranan deger yoktur.");
+            }
+
+            Array.Reverse(isimler);
+            for (int i = 0; i < isimler.Length; i++)
+            {
+                Console.WriteLine(isimler.GetValue(i));
+                
+            }
+            Array.Clear(isimler, 2, 2);
+            for (int i = 0; i < isimler.Length; i++)
+            {
+                Console.WriteLine(isimler.GetValue(i));
+                
+            }
+            
 
 
 
