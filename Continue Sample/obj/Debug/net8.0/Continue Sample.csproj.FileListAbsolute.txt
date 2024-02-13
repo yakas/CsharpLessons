@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\bin\Debug\net8.0\Continue Sample.exe
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\bin\Debug\net8.0\Continue Sample.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\bin\Debug\net8.0\Continue Sample.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\bin\Debug\net8.0\Continue Sample.dll
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\bin\Debug\net8.0\Continue Sample.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.dll
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\refint\Continue Sample.dll
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\Continue Sample.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Continue Sample\obj\Debug\net8.0\ref\Continue Sample.dll
