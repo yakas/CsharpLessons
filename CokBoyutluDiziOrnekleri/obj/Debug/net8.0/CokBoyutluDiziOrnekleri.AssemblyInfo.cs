@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CokBoyutluDiziOrnekleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32643df4725665387904f01e7c4ea9d589a9dfa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db57151d716cafdfd17a0da7323087e35164467b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CokBoyutluDiziOrnekleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CokBoyutluDiziOrnekleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
