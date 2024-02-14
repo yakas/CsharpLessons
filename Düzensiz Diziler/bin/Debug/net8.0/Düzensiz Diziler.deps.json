@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Düzensiz Diziler/1.0.0": {
+        "runtime": {
+          "Düzensiz Diziler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Düzensiz Diziler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\bin\Debug\net8.0\Düzensiz Diziler.exe
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\bin\Debug\net8.0\Düzensiz Diziler.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\bin\Debug\net8.0\Düzensiz Diziler.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\bin\Debug\net8.0\Düzensiz Diziler.dll
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\bin\Debug\net8.0\Düzensiz Diziler.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.dll
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\refint\Düzensiz Diziler.dll
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\Düzensiz Diziler.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Düzensiz Diziler\obj\Debug\net8.0\ref\Düzensiz Diziler.dll

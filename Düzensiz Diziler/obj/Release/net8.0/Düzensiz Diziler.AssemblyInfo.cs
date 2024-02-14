@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Return Keyword Usage")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Düzensiz Diziler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32643df4725665387904f01e7c4ea9d589a9dfa3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Return Keyword Usage")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Return Keyword Usage")]
+[assembly: System.Reflection.AssemblyProductAttribute("Düzensiz Diziler")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Düzensiz Diziler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
