@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\bin\Debug\net8.0\Cok Boyutlu Dizi.exe
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\bin\Debug\net8.0\Cok Boyutlu Dizi.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\bin\Debug\net8.0\Cok Boyutlu Dizi.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\bin\Debug\net8.0\Cok Boyutlu Dizi.dll
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\bin\Debug\net8.0\Cok Boyutlu Dizi.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.dll
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\refint\Cok Boyutlu Dizi.dll
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\Cok Boyutlu Dizi.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Cok Boyutlu Dizi\obj\Debug\net8.0\ref\Cok Boyutlu Dizi.dll

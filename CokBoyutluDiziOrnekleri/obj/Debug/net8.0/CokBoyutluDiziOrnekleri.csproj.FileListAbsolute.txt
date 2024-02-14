@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\bin\Debug\net8.0\CokBoyutluDiziOrnekleri.exe
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\bin\Debug\net8.0\CokBoyutluDiziOrnekleri.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\bin\Debug\net8.0\CokBoyutluDiziOrnekleri.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\bin\Debug\net8.0\CokBoyutluDiziOrnekleri.dll
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\bin\Debug\net8.0\CokBoyutluDiziOrnekleri.pdb
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.dll
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\refint\CokBoyutluDiziOrnekleri.dll
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.pdb
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\CokBoyutluDiziOrnekleri.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\CokBoyutluDiziOrnekleri\obj\Debug\net8.0\ref\CokBoyutluDiziOrnekleri.dll

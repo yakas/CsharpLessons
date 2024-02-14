@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Keyword Usage", "Ret
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goto Keyword Usage", "Goto Keyword Usage\Goto Keyword Usage.csproj", "{1D379CD8-2528-46CB-87F6-15143CFC35B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cok Boyutlu Dizi", "Cok Boyutlu Dizi\Cok Boyutlu Dizi.csproj", "{ED7BAED2-7CE8-4842-8E19-1A01FFC4FFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CokBoyutluDiziOrnekleri", "CokBoyutluDiziOrnekleri\CokBoyutluDiziOrnekleri.csproj", "{DA8AF02E-B2BC-4EBF-ABEA-A003E30F7049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{1D379CD8-2528-46CB-87F6-15143CFC35B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D379CD8-2528-46CB-87F6-15143CFC35B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D379CD8-2528-46CB-87F6-15143CFC35B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7BAED2-7CE8-4842-8E19-1A01FFC4FFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7BAED2-7CE8-4842-8E19-1A01FFC4FFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7BAED2-7CE8-4842-8E19-1A01FFC4FFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7BAED2-7CE8-4842-8E19-1A01FFC4FFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8AF02E-B2BC-4EBF-ABEA-A003E30F7049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8AF02E-B2BC-4EBF-ABEA-A003E30F7049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8AF02E-B2BC-4EBF-ABEA-A003E30F7049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8AF02E-B2BC-4EBF-ABEA-A003E30F7049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
