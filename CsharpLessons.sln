@@ -67,8 +67,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Split Fonksiyonu", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Segment Kullanımı", "Array Segment Kullanımı\Array Segment Kullanımı.csproj", "{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Slice Kullanımı", "Array Silece Kullanımı\Array Slice Kullanımı.csproj", "{7D2E6CFF-C492-4E42-9BD0-C85AC23300D1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -203,10 +201,6 @@ Global
 		{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7D2E6CFF-C492-4E42-9BD0-C85AC23300D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D2E6CFF-C492-4E42-9BD0-C85AC23300D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D2E6CFF-C492-4E42-9BD0-C85AC23300D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D2E6CFF-C492-4E42-9BD0-C85AC23300D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
