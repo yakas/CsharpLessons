@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Goto Keyword Usage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f492c4b07734399d33123ad2358fb2c56f4d29e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf7c9a5bbaa4c2b137c6162b4f1fddc5ae76139c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Goto Keyword Usage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Goto Keyword Usage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

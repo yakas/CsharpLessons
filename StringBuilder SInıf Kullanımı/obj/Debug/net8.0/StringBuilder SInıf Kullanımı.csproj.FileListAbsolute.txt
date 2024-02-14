@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\bin\Debug\net8.0\StringBuilder SInıf Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\bin\Debug\net8.0\StringBuilder SInıf Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\bin\Debug\net8.0\StringBuilder SInıf Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\bin\Debug\net8.0\StringBuilder SInıf Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\bin\Debug\net8.0\StringBuilder SInıf Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\refint\StringBuilder SInıf Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\StringBuilder SInıf Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\StringBuilder SInıf Kullanımı\obj\Debug\net8.0\ref\StringBuilder SInıf Kullanımı.dll

@@ -65,9 +65,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Düzensiz Diziler", "Düzen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Split Fonksiyonu", "String Split Fonksiyonu\String Split Fonksiyonu.csproj", "{E2BF460F-4D60-4A32-8AB9-ACC7865E9AE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Segment Kullanımı", "Array Segment Kullanımı\Array Segment Kullanımı.csproj", "{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Segment Kullanımı", "Array Segment Kullanımı\Array Segment Kullanımı.csproj", "{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Segment Kullanımı", "String Segment Kullanımı\String Segment Kullanımı.csproj", "{5C7E4F3B-2DCA-400C-AD1B-F9E10EC25842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Segment Kullanımı", "String Segment Kullanımı\String Segment Kullanımı.csproj", "{5C7E4F3B-2DCA-400C-AD1B-F9E10EC25842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder SInıf Kullanımı", "StringBuilder SInıf Kullanımı\StringBuilder SInıf Kullanımı.csproj", "{B58F4C8A-DDCA-40CD-A85B-DE288CB616CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{5C7E4F3B-2DCA-400C-AD1B-F9E10EC25842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C7E4F3B-2DCA-400C-AD1B-F9E10EC25842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C7E4F3B-2DCA-400C-AD1B-F9E10EC25842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58F4C8A-DDCA-40CD-A85B-DE288CB616CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58F4C8A-DDCA-40CD-A85B-DE288CB616CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58F4C8A-DDCA-40CD-A85B-DE288CB616CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58F4C8A-DDCA-40CD-A85B-DE288CB616CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
