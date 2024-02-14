@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\bin\Debug\net8.0\Array Segment Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\bin\Debug\net8.0\Array Segment Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\bin\Debug\net8.0\Array Segment Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\bin\Debug\net8.0\Array Segment Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\bin\Debug\net8.0\Array Segment Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\refint\Array Segment Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\Array Segment Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Array Segment Kullanımı\obj\Debug\net8.0\ref\Array Segment Kullanımı.dll

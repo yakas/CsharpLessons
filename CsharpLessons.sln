@@ -53,17 +53,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\Sw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Continue Kullanımı", "Continue Kullanımı\Continue Kullanımı.csproj", "{7B61EC30-ACDF-43B2-8BEC-CB1FC1FC6E72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Keyword Usage", "Return Keyword Usage\Return Keyword Usage.csproj", "{B6044620-A002-4D43-AE79-BE4ED1FD13B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return Keyword Usage", "Return Keyword Usage\Return Keyword Usage.csproj", "{B6044620-A002-4D43-AE79-BE4ED1FD13B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goto Keyword Usage", "Goto Keyword Usage\Goto Keyword Usage.csproj", "{1D379CD8-2528-46CB-87F6-15143CFC35B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Goto Keyword Usage", "Goto Keyword Usage\Goto Keyword Usage.csproj", "{1D379CD8-2528-46CB-87F6-15143CFC35B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cok Boyutlu Dizi", "Cok Boyutlu Dizi\Cok Boyutlu Dizi.csproj", "{ED7BAED2-7CE8-4842-8E19-1A01FFC4FFF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cok Boyutlu Dizi", "Cok Boyutlu Dizi\Cok Boyutlu Dizi.csproj", "{ED7BAED2-7CE8-4842-8E19-1A01FFC4FFF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CokBoyutluDiziOrnekleri", "CokBoyutluDiziOrnekleri\CokBoyutluDiziOrnekleri.csproj", "{DA8AF02E-B2BC-4EBF-ABEA-A003E30F7049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CokBoyutluDiziOrnekleri", "CokBoyutluDiziOrnekleri\CokBoyutluDiziOrnekleri.csproj", "{DA8AF02E-B2BC-4EBF-ABEA-A003E30F7049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Düzensiz Diziler", "Düzensiz Diziler\Düzensiz Diziler.csproj", "{6BC24A4C-9CFE-4784-85F1-854855026230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Düzensiz Diziler", "Düzensiz Diziler\Düzensiz Diziler.csproj", "{6BC24A4C-9CFE-4784-85F1-854855026230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Split Fonksiyonu", "String Split Fonksiyonu\String Split Fonksiyonu.csproj", "{E2BF460F-4D60-4A32-8AB9-ACC7865E9AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Split Fonksiyonu", "String Split Fonksiyonu\String Split Fonksiyonu.csproj", "{E2BF460F-4D60-4A32-8AB9-ACC7865E9AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Segment Kullanımı", "Array Segment Kullanımı\Array Segment Kullanımı.csproj", "{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{E2BF460F-4D60-4A32-8AB9-ACC7865E9AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2BF460F-4D60-4A32-8AB9-ACC7865E9AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2BF460F-4D60-4A32-8AB9-ACC7865E9AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F59F5B-0573-4B28-BEF9-19CB0BF4D14A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
