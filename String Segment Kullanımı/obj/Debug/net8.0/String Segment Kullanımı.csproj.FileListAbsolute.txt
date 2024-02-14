@@ -1,0 +1,18 @@
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\bin\Debug\net8.0\String Segment Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\bin\Debug\net8.0\String Segment Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\bin\Debug\net8.0\String Segment Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\bin\Debug\net8.0\String Segment Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\bin\Debug\net8.0\String Segment Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.csproj.CopyComplete
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\refint\String Segment Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\String Segment Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\obj\Debug\net8.0\ref\String Segment Kullanımı.dll

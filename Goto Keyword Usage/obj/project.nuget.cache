@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lnJ0mFi4mPgh8ZergMSxcniMODgg2SKYEqO+I+zLYe8Ku90chQ6JKHqOA193DOXe2qedU5Q1jJcr0IMs5IBQBw==",
+  "dgSpecHash": "fyFboamxnyAT3dOCsf2se9X233Sh4MSqCKrLFMYV3Pz6IiilZMQ9BpLnjTHa4+P1/42jqMgCi0f7VvRh0YI9YQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Goto Keyword Usage\\Goto Keyword Usage.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yakup\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

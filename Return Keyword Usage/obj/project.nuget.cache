@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C92MUXnNvmf+xefM836qK8uyviULCXGe6VmLdsVxtPuTfTKqQmz7rrNIpyQ8Wl79tBA57x/pA5ez9xUD139MCw==",
+  "dgSpecHash": "ZxGootBT3J+LLbGu6ACWtish6P9Z1N4Yp7kHNz9naqK6Q4j+Zlm8kuQSpAN4cVMK7VXShgKZjvmCZFc6oVZ1MQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Return Keyword Usage\\Return Keyword Usage.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yakup\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

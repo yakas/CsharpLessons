@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Lwnj8AsTVOatZulL9PXRUmpOdwclFSMIZfomoVfsM35F7QXSfx5xfeVo7ABW3T1PoTUYF14+lXSsdpaU8S55bA==",
+  "dgSpecHash": "WwjG4QC9a2byElEVJrFLf7hHcv93nWGgmSHO9ABRq1Qq2OpwZF7Q5u3FORJymqyO2QfnI2jFa3psCMaowDGvAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Continue Kullanımı\\Continue Kullanımı.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yakup\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TWj/wwRtktLt7sjL84IJcIyMAyQz4s7VWffRBifV7c3m9kuEtzjgeF4KnUw2nHHfQJ1FShDHgrY9Hnt8CANoHw==",
+  "dgSpecHash": "YpLDXIWon84LvZ+l2fo5B+VphF2LKNkk31rXEIrw0R13enFR5rmg+vqOWbyqvURRML6tA+LyncLc61IWKhFaLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yakup\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
