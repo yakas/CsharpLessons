@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\bin\Debug\net8.0\Array Slice Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\bin\Debug\net8.0\Array Slice Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\bin\Debug\net8.0\Array Slice Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\bin\Debug\net8.0\Array Slice Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\bin\Debug\net8.0\Array Slice Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\refint\Array Slice Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\Array Slice Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Array Silece Kullanımı\obj\Debug\net8.0\ref\Array Slice Kullanımı.dll
