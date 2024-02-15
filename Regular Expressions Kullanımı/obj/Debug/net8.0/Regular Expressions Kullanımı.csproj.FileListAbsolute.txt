@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\bin\Debug\net8.0\Regular Expressions Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\bin\Debug\net8.0\Regular Expressions Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\bin\Debug\net8.0\Regular Expressions Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\bin\Debug\net8.0\Regular Expressions Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\bin\Debug\net8.0\Regular Expressions Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\refint\Regular Expressions Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\Regular Expressions Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Regular Expressions Kullanımı\obj\Debug\net8.0\ref\Regular Expressions Kullanımı.dll

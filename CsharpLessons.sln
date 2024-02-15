@@ -73,6 +73,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilder SInıf Kullan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Span Class Kullanımı", "Span Class Kullanımı\Span Class Kullanımı.csproj", "{2EAC1667-641D-4823-BB24-927717298A5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expressions Kullanımı", "Regular Expressions Kullanımı\Regular Expressions Kullanımı.csproj", "{BA0802FE-482D-41BE-8B55-8B64166825E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verbatim Operatörü", "Verbatim Operatörü\Verbatim Operatörü.csproj", "{1F12027A-972A-4974-8480-A61470CB13B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{2EAC1667-641D-4823-BB24-927717298A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EAC1667-641D-4823-BB24-927717298A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EAC1667-641D-4823-BB24-927717298A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0802FE-482D-41BE-8B55-8B64166825E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0802FE-482D-41BE-8B55-8B64166825E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0802FE-482D-41BE-8B55-8B64166825E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0802FE-482D-41BE-8B55-8B64166825E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F12027A-972A-4974-8480-A61470CB13B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F12027A-972A-4974-8480-A61470CB13B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F12027A-972A-4974-8480-A61470CB13B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F12027A-972A-4974-8480-A61470CB13B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
