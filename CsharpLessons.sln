@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList Collections Incel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration Kavramı", "Iteration Kavramı\Iteration Kavramı.csproj", "{897E081A-3207-4AF5-845C-226496309B23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime Kullanımı", "DateTime Kullanımı\DateTime Kullanımı.csproj", "{27A241B0-6AC8-458B-8386-39F5C3A89253}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{897E081A-3207-4AF5-845C-226496309B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{897E081A-3207-4AF5-845C-226496309B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{897E081A-3207-4AF5-845C-226496309B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A241B0-6AC8-458B-8386-39F5C3A89253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A241B0-6AC8-458B-8386-39F5C3A89253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A241B0-6AC8-458B-8386-39F5C3A89253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A241B0-6AC8-458B-8386-39F5C3A89253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

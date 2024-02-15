@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\bin\Debug\net8.0\DateTime Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\bin\Debug\net8.0\DateTime Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\bin\Debug\net8.0\DateTime Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\bin\Debug\net8.0\DateTime Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\bin\Debug\net8.0\DateTime Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\refint\DateTime Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\DateTime Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\DateTime Kullanımı\obj\Debug\net8.0\ref\DateTime Kullanımı.dll
