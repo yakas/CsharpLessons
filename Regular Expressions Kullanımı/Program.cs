@@ -99,8 +99,83 @@ namespace Regular_Expressions_Kullanımı
             Match match5 = regex5.Match(text5);
             Console.WriteLine(@"\d{4}-\d{7} 0537-5969346  ---> SONUCU :" + match5.Success);
             #endregion
-            #region
+            #region ? Operatörü   ---> Bu operatörü önüne gelen karakter en fazla bir en az sıfır defa olabilmektedir.
+
+            /*
+             Soru işareti hangi karakterin önüne gelirse o karakter enfazla 1 enaz 0 olacaktır..  n? gibi
+               
+             \d{3}B?A  --> ilk olarak ilk karakter rakam olacak sonrasında B karakterinden en fazla bir tane olabilir ve sonundada A olsun diyoruz..
+              234BA,  543BA,   543A,   123BBA
+               TRUE   TRUE     TRUE    FALSE
+            */
+            string text6 = "123BBA";
+            Regex regex6 = new Regex(@"\d{3}B?A");
+            Match match6 = regex6.Match(text6);
+            Console.WriteLine(match6.Success);
+
             #endregion
+            #region . Operatörü --> Kullanılıdığı yerde \n karakteri dışında her karakter olabilir.
+            /*
+               \d{3}.A     123zA   567BA  999ÇA   563vA   234\nA 
+                            TRUE    TRUE   TRUE    TRUE    FALSE
+            */
+
+            string text7 = "234\nA";
+            Regex regex7 = new Regex(@"\d{3}.A");
+            Match match7=regex7.Match(text7);
+            Console.WriteLine(match7.Success);
+
+            #endregion
+            #region \B  \b  operatöleri
+            /*
+                  \b bu operatör ile kelimenin belirtilen karakter dizisi ile sonlanmasını sağlar.
+                  \B  bu operatör ile kelimenin başında ya da sonunda olmaması gereken karakterler bildirilir
+
+                  \d{3}dır\B      123dır     dır123     123dır
+                                  FALSE      FALSE       TRUE
+             */
+            string text8 = "123dır";
+            Regex regex8 = new Regex(@"\d{3}dır\B");
+            Match match8 = regex8.Match(text8);
+            Console.WriteLine(match8.Success);
+
+            #endregion
+            #region [n] Operatörü --> karakter aralıgı belirtilir.Ayrıca özel karakterlerin yerinde yazılmasınıda ifade eder.
+
+            //  \d{3}[A-E]   123A   435B   567C  145D  999E  909F
+            //               TRUE   TRUE   TRUE  TRUE  TRUE  FALSE
+
+            // özellikle telefon numarası yazdırırken
+
+            // [(]\d{4}[)]\s\d{3}\s\d{2}\s\d{2}        (0530) 593 93 48        0543 56 78 90
+            //                                           TRUE                  FALSE
+            string text9 = "999E";
+            Regex regex9 = new Regex(@"\d{3}[A-E]");
+            Match match9 = regex9.Match(text9);
+            Console.WriteLine(match9.Success);
+
+
+            string text10 = "(0530) 593 53 48";
+            Regex regex10 = new Regex(@"[(]\d{4}[)]\s\d{3}\s\d{2}\s\d{2}");
+            Match match10 = regex10.Match(text10);
+            Console.WriteLine($"Success:{match10.Success}");
+            Console.WriteLine($"Value:{match10.Value}");
+            Console.WriteLine($"Index:{match10.Index}");
+            Console.WriteLine($"Length:{match10.Length}");
+
+            #endregion
+            #region Regular Expressions Metodları
+            /*
+            match.Success
+            match.Value
+            match.Index
+            match.Length
+
+
+            */
+            #endregion
+
+
 
         }
     }
