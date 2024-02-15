@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\bin\Debug\net8.0\ArrayList Collections Inceleme.exe
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\bin\Debug\net8.0\ArrayList Collections Inceleme.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\bin\Debug\net8.0\ArrayList Collections Inceleme.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\bin\Debug\net8.0\ArrayList Collections Inceleme.dll
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\bin\Debug\net8.0\ArrayList Collections Inceleme.pdb
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.dll
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\refint\ArrayList Collections Inceleme.dll
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.pdb
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ArrayList Collections Inceleme.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\ArrayList Collections Inceleme\obj\Debug\net8.0\ref\ArrayList Collections Inceleme.dll

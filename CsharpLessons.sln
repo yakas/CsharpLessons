@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expressions Kullan�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verbatim Operatörü", "Verbatim Operatörü\Verbatim Operatörü.csproj", "{1F12027A-972A-4974-8480-A61470CB13B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList Collections Inceleme", "ArrayList Collections Inceleme\ArrayList Collections Inceleme.csproj", "{CD6BF33E-697C-4335-8365-58344E1C78A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{1F12027A-972A-4974-8480-A61470CB13B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F12027A-972A-4974-8480-A61470CB13B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F12027A-972A-4974-8480-A61470CB13B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6BF33E-697C-4335-8365-58344E1C78A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6BF33E-697C-4335-8365-58344E1C78A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6BF33E-697C-4335-8365-58344E1C78A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6BF33E-697C-4335-8365-58344E1C78A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
