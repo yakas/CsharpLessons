@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\bin\Debug\net8.0\Span Class Kullanımı.exe
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\bin\Debug\net8.0\Span Class Kullanımı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\bin\Debug\net8.0\Span Class Kullanımı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\bin\Debug\net8.0\Span Class Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\bin\Debug\net8.0\Span Class Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\refint\Span Class Kullanımı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\Span Class Kullanımı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Span Class Kullanımı\obj\Debug\net8.0\ref\Span Class Kullanımı.dll
