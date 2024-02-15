@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\bin\Debug\net8.0\Iteration Kavramı.exe
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\bin\Debug\net8.0\Iteration Kavramı.deps.json
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\bin\Debug\net8.0\Iteration Kavramı.runtimeconfig.json
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\bin\Debug\net8.0\Iteration Kavramı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\bin\Debug\net8.0\Iteration Kavramı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.AssemblyInfo.cs
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.sourcelink.json
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\refint\Iteration Kavramı.dll
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.pdb
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\Iteration Kavramı.genruntimeconfig.cache
+C:\Users\yakup\Desktop\CsharpLessons\Iteration Kavramı\obj\Debug\net8.0\ref\Iteration Kavramı.dll
