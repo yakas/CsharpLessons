@@ -12,12 +12,11 @@
             else
             {
                 Console.WriteLine($"Metodun geri dönüş {returnDeger} degeri 10 dan küçüktür.");
-            }  
-            
+            }
+            x(4);
 
 
         }
-
         // Algoritmayı yazdıgmız yer genelde metoddur.Metodlar işi çağrıldıklarında tekrar tekrar yaparlar.
         // Constructorlar ,property'ler gibi şeylerde birer metoddur.
 
@@ -97,6 +96,44 @@
             int topla = a + b;
             return topla;
         }
+        #endregion
+        #region Metodlarda Optional Parameters 
+        /* bir parametrenin optional olabilmesi icin default degeri olmalıdır.
+
+        static public void x(int a, int b)
+        {
+        
+        }
+        */
+        static public void x(int a, int b=5) // int b=5 diyerek b değişkenini optional parametre yapmış olduk.b değişkenine kullanıcı deger göndermek zorunda değil.
+        {
+
+        }
+
+        #endregion
+        #region Baska class'lardaki metodlara nasıl erişim sağlarız.
+        /*
+         baska class'lardaki metodlara ulaşmamız için o class 'dan baska bir nesne oluşturup bunu bir değişkene bağlamalıyız..
+        class Ogrenci                                 burdaki Ögrenci classın verilerine ulaşmak için içinde bulunduğumuz class içinde öğrenci
+        {                                             class'indan bir nesne oluşturmalıyız
+          int yas;                                    Ögreci yeniÖgrenci = new Ögrenci(); şeklinde
+          string adı;                                 daha sonra oluşturmuş olduğumuz bu yeni Ögrenci nesnesinden istediğimiz metod ve değişkenlere
+          string soyadı;                              aşağıdaki şekilde ulaşa biliriz.
+          public void clasMetodu()                    yeniÖgrenci.clasMetodu() ile metoda ulaştık.
+          {                                           yeniÖgrenci.yas  ile Ögrencinin yaşına ulaştık mesela.. bunu gibi
+            console.writeline(adı,soyadı);            burada yeniÖgrenci bir referans tır ve Ögrenci nesnesinin HEAP bellekteki adresini refere
+            .....                                     ederek orayı gösterir.
+          }                                           class nedir: yeryüzündeki herhangi bir olguyu modellediğimiz yapılanma.
+                                                      nesne nedir: class'dan üretilen değer.
+        }                                             referans nedir : class'tan üretilen değeri kullanmamızı sağlayan yapı
+         
+         
+         
+         
+         
+         
+         */
+
         #endregion
     }
 }
