@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("String Split Fonksiyonu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a38c00fa844997c948d3ad785407789cdc2218")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76736812d658b478fa5cfc8194c98c2756c9c055")]
 [assembly: System.Reflection.AssemblyProductAttribute("String Split Fonksiyonu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("String Split Fonksiyonu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

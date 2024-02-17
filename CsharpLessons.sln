@@ -71,17 +71,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Segment Kullanımı"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilder SInıf Kullanımı", "StringBuilder SInıf Kullanımı\StringBuilder SInıf Kullanımı.csproj", "{B58F4C8A-DDCA-40CD-A85B-DE288CB616CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Span Class Kullanımı", "Span Class Kullanımı\Span Class Kullanımı.csproj", "{2EAC1667-641D-4823-BB24-927717298A5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Span Class Kullanımı", "Span Class Kullanımı\Span Class Kullanımı.csproj", "{2EAC1667-641D-4823-BB24-927717298A5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expressions Kullanımı", "Regular Expressions Kullanımı\Regular Expressions Kullanımı.csproj", "{BA0802FE-482D-41BE-8B55-8B64166825E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regular Expressions Kullanımı", "Regular Expressions Kullanımı\Regular Expressions Kullanımı.csproj", "{BA0802FE-482D-41BE-8B55-8B64166825E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verbatim Operatörü", "Verbatim Operatörü\Verbatim Operatörü.csproj", "{1F12027A-972A-4974-8480-A61470CB13B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Verbatim Operatörü", "Verbatim Operatörü\Verbatim Operatörü.csproj", "{1F12027A-972A-4974-8480-A61470CB13B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList Collections Inceleme", "ArrayList Collections Inceleme\ArrayList Collections Inceleme.csproj", "{CD6BF33E-697C-4335-8365-58344E1C78A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList Collections Inceleme", "ArrayList Collections Inceleme\ArrayList Collections Inceleme.csproj", "{CD6BF33E-697C-4335-8365-58344E1C78A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration Kavramı", "Iteration Kavramı\Iteration Kavramı.csproj", "{897E081A-3207-4AF5-845C-226496309B23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iteration Kavramı", "Iteration Kavramı\Iteration Kavramı.csproj", "{897E081A-3207-4AF5-845C-226496309B23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime Kullanımı", "DateTime Kullanımı\DateTime Kullanımı.csproj", "{27A241B0-6AC8-458B-8386-39F5C3A89253}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime Kullanımı", "DateTime Kullanımı\DateTime Kullanımı.csproj", "{27A241B0-6AC8-458B-8386-39F5C3A89253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodlar", "Metodlar\Metodlar.csproj", "{77F6AE68-5B39-412D-8571-F07D45A845D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{27A241B0-6AC8-458B-8386-39F5C3A89253}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27A241B0-6AC8-458B-8386-39F5C3A89253}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27A241B0-6AC8-458B-8386-39F5C3A89253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F6AE68-5B39-412D-8571-F07D45A845D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F6AE68-5B39-412D-8571-F07D45A845D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F6AE68-5B39-412D-8571-F07D45A845D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F6AE68-5B39-412D-8571-F07D45A845D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
