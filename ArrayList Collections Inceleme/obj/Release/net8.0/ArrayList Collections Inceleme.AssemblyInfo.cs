@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayList Collections Inceleme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a7a4ed03cedabfbf9bd18f2976df679089f81a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e792f60cebddd178ec48705ad0b0f461907536")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayList Collections Inceleme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayList Collections Inceleme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

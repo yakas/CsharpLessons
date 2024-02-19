@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {}
+    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {
+    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
+        "projectUniqueName": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
         "projectName": "Regular Expressions Kullanımı",
-        "projectPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
+        "projectPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
         "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Regular Expressions Kullanımı\\obj\\",
+        "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Regular Expressions Kullanımı\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

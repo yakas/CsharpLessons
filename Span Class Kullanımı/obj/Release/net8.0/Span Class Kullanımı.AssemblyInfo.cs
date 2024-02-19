@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Span Class Kullanımı")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6126b232f6a8d81945568ba64ab21c725219f784")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e792f60cebddd178ec48705ad0b0f461907536")]
 [assembly: System.Reflection.AssemblyProductAttribute("Span Class Kullanımı")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Span Class Kullanımı")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

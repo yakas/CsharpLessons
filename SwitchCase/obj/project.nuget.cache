@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4CLxec6K36bKlUnC3H/WVsYcM9Za5P1pOomyUweJreajWRBHuZZy3mwf3uLgiBSDjQql1caMuOE7IV70XspIcQ==",
+  "dgSpecHash": "uDNq61PknE1tQRM+nJTGKC6bU2HTbBbgVnrRAHx9mZ9dma8nwwLZxCZSbBv3EEjSqFyn0tz4AveDldzDF7itiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\SwitchCase\\SwitchCase.csproj",
+  "projectFilePath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\SwitchCase\\SwitchCase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yakup\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],

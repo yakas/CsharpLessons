@@ -13,3 +13,21 @@ C:\Users\yakup\Desktop\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\re
 C:\Users\yakup\Desktop\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.pdb
 C:\Users\yakup\Desktop\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.genruntimeconfig.cache
 C:\Users\yakup\Desktop\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\ref\String Split Fonksiyonu.dll
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\bin\Debug\net8.0\String Split Fonksiyonu.exe
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\bin\Debug\net8.0\String Split Fonksiyonu.deps.json
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\bin\Debug\net8.0\String Split Fonksiyonu.runtimeconfig.json
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\bin\Debug\net8.0\String Split Fonksiyonu.dll
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\bin\Debug\net8.0\String Split Fonksiyonu.pdb
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.AssemblyInfoInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.AssemblyInfo.cs
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.sourcelink.json
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String S.C7F7F868.Up2Date
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.dll
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\refint\String Split Fonksiyonu.dll
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.pdb
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\String Split Fonksiyonu.genruntimeconfig.cache
+C:\Users\yakup\source\repos\CsharpLessons\String Split Fonksiyonu\obj\Debug\net8.0\ref\String Split Fonksiyonu.dll

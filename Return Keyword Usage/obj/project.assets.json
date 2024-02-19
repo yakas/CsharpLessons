@@ -64,11 +64,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Return Keyword Usage\\Return Keyword Usage.csproj",
+      "projectUniqueName": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Return Keyword Usage\\Return Keyword Usage.csproj",
       "projectName": "Return Keyword Usage",
-      "projectPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Return Keyword Usage\\Return Keyword Usage.csproj",
+      "projectPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Return Keyword Usage\\Return Keyword Usage.csproj",
       "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Return Keyword Usage\\obj\\",
+      "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Return Keyword Usage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,6 +83,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Goto_Keyword_Usage
-build_property.ProjectDir = C:\Users\yakup\Desktop\CsharpLessons\Goto Keyword Usage\
+build_property.ProjectDir = C:\Users\yakup\source\repos\CsharpLessons\Goto Keyword Usage\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

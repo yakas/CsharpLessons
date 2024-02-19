@@ -64,11 +64,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
+      "projectUniqueName": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
       "projectName": "Düzensiz Diziler",
-      "projectPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
+      "projectPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
       "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\Düzensiz Diziler\\obj\\",
+      "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,6 +83,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

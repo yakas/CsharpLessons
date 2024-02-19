@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = String_Segment_Kullanımı
-build_property.ProjectDir = C:\Users\yakup\Desktop\CsharpLessons\String Segment Kullanımı\
+build_property.ProjectDir = C:\Users\yakup\source\repos\CsharpLessons\String Segment Kullanımı\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

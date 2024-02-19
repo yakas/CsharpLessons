@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Continue Kullanımı")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76736812d658b478fa5cfc8194c98c2756c9c055")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e792f60cebddd178ec48705ad0b0f461907536")]
 [assembly: System.Reflection.AssemblyProductAttribute("Continue Kullanımı")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Continue Kullanımı")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

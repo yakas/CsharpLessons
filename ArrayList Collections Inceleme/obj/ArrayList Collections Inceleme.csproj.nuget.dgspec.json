@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakup\\Desktop\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj": {}
+    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakup\\Desktop\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj": {
+    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj",
+        "projectUniqueName": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj",
         "projectName": "ArrayList Collections Inceleme",
-        "projectPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj",
+        "projectPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\ArrayList Collections Inceleme\\ArrayList Collections Inceleme.csproj",
         "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yakup\\Desktop\\CsharpLessons\\ArrayList Collections Inceleme\\obj\\",
+        "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\ArrayList Collections Inceleme\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
