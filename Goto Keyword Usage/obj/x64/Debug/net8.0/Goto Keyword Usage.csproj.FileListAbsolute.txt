@@ -1,0 +1,18 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\bin\x64\Debug\net8.0\Goto Keyword Usage.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\bin\x64\Debug\net8.0\Goto Keyword Usage.deps.json
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\bin\x64\Debug\net8.0\Goto Keyword Usage.runtimeconfig.json
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\bin\x64\Debug\net8.0\Goto Keyword Usage.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\bin\x64\Debug\net8.0\Goto Keyword Usage.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\bin\x64\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.AssemblyInfoInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.AssemblyInfo.cs
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.sourcelink.json
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Key.DF09AFF2.Up2Date
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\refint\Goto Keyword Usage.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\Goto Keyword Usage.genruntimeconfig.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Goto Keyword Usage\obj\x64\Debug\net8.0\ref\Goto Keyword Usage.dll

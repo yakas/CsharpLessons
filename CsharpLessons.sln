@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor_Kurucu_Metod", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesap_Makinasi", "Hesap Makinasi\Hesap_Makinasi.csproj", "{46304DD4-D448-4202-8EE6-5FE38FFFAFC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Login", "User Login\User Login.csproj", "{B33855EF-08B9-4959-9EFF-8CC0C22A5501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -533,6 +535,14 @@ Global
 		{46304DD4-D448-4202-8EE6-5FE38FFFAFC2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{46304DD4-D448-4202-8EE6-5FE38FFFAFC2}.Release|x64.ActiveCfg = Release|Any CPU
 		{46304DD4-D448-4202-8EE6-5FE38FFFAFC2}.Release|x64.Build.0 = Release|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Debug|x64.Build.0 = Debug|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Release|x64.ActiveCfg = Release|Any CPU
+		{B33855EF-08B9-4959-9EFF-8CC0C22A5501}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

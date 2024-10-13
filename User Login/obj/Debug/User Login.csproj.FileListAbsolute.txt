@@ -1,0 +1,10 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\bin\Debug\User Login.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\bin\Debug\User Login.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\bin\Debug\User Login.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\obj\Debug\User Login.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\obj\Debug\User_Login.Form1.resources
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\obj\Debug\User_Login.Properties.Resources.resources
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\obj\Debug\User Login.csproj.GenerateResource.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\obj\Debug\User Login.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\obj\Debug\User Login.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\User Login\obj\Debug\User Login.pdb
