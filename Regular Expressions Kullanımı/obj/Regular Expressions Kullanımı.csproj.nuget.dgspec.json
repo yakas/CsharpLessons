@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {}
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
+        "projectUniqueName": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
         "projectName": "Regular Expressions Kullanımı",
-        "projectPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
+        "projectPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Regular Expressions Kullanımı\\Regular Expressions Kullanımı.csproj",
         "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Regular Expressions Kullanımı\\obj\\",
         "projectStyle": "PackageReference",
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

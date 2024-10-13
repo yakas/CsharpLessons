@@ -1,0 +1,15 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\bin\Debug\net8.0\Deneme.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\bin\Debug\net8.0\Deneme.deps.json
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\bin\Debug\net8.0\Deneme.runtimeconfig.json
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\bin\Debug\net8.0\Deneme.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\bin\Debug\net8.0\Deneme.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfoInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfo.cs
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.sourcelink.json
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\refint\Deneme.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\Deneme.genruntimeconfig.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme\obj\Debug\net8.0\ref\Deneme.dll

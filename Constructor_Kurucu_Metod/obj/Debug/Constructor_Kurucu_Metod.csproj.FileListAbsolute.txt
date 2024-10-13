@@ -1,0 +1,7 @@
+C:\Users\yakup\source\repos\CsharpLessons\Constructor_Kurucu_Metod\obj\Debug\Constructor_Kurucu_Metod.csproj.AssemblyReference.cache
+C:\Users\yakup\source\repos\CsharpLessons\Constructor_Kurucu_Metod\obj\Debug\Constructor_Kurucu_Metod.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\CsharpLessons\Constructor_Kurucu_Metod\bin\Debug\Contructor_Kurucu_Metod.exe.config
+C:\Users\yakup\source\repos\CsharpLessons\Constructor_Kurucu_Metod\bin\Debug\Contructor_Kurucu_Metod.exe
+C:\Users\yakup\source\repos\CsharpLessons\Constructor_Kurucu_Metod\bin\Debug\Contructor_Kurucu_Metod.pdb
+C:\Users\yakup\source\repos\CsharpLessons\Constructor_Kurucu_Metod\obj\Debug\Contructor_Kurucu_Metod.exe
+C:\Users\yakup\source\repos\CsharpLessons\Constructor_Kurucu_Metod\obj\Debug\Contructor_Kurucu_Metod.pdb

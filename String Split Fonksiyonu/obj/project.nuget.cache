@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3GKa2V2FtxGdIuZIwHoSRBWqdHF9HbhU0Rdo+EKEiucQ7KnfBx7baihrkJoQFU/ZZ64tXyBf+tTzJ5SdKtkzg==",
+  "dgSpecHash": "eMTiMNNgyKA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\String Split Fonksiyonu\\String Split Fonksiyonu.csproj",
+  "projectFilePath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\String Split Fonksiyonu\\String Split Fonksiyonu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yakup\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],

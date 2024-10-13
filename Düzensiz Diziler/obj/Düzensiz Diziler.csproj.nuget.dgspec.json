@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj": {}
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj": {
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
+        "projectUniqueName": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
         "projectName": "Düzensiz Diziler",
-        "projectPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
+        "projectPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\Düzensiz Diziler.csproj",
         "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Düzensiz Diziler\\obj\\",
         "projectStyle": "PackageReference",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

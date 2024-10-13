@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4dAQylCWVVYlNOjU+OCPksxbSXzRzEq0GnjSh5Po7TJB1TGvp0qiSQsJG6CDNY37Su5r9fzPx/8HR6bjojW+WA==",
+  "dgSpecHash": "tLofU/7T7MA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Array Segment Kullanımı\\Array Segment Kullanımı.csproj",
+  "projectFilePath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Array Segment Kullanımı\\Array Segment Kullanımı.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yakup\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],

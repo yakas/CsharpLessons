@@ -1,0 +1,15 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\bin\Debug\net8.0\KullanicidanVeriAlmak.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\bin\Debug\net8.0\KullanicidanVeriAlmak.deps.json
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\bin\Debug\net8.0\KullanicidanVeriAlmak.runtimeconfig.json
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\bin\Debug\net8.0\KullanicidanVeriAlmak.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\bin\Debug\net8.0\KullanicidanVeriAlmak.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.AssemblyInfoInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.AssemblyInfo.cs
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.sourcelink.json
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\refint\KullanicidanVeriAlmak.dll
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\KullanicidanVeriAlmak.genruntimeconfig.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\KullanicidanVeriAlmak\obj\Debug\net8.0\ref\KullanicidanVeriAlmak.dll

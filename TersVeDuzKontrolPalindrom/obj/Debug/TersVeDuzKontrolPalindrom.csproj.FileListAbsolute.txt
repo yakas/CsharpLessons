@@ -1,0 +1,7 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\TersVeDuzKontrolPalindrom\bin\Debug\TersVeDuzKontrolPalindrom.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\TersVeDuzKontrolPalindrom\bin\Debug\TersVeDuzKontrolPalindrom.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\TersVeDuzKontrolPalindrom\bin\Debug\TersVeDuzKontrolPalindrom.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\TersVeDuzKontrolPalindrom\obj\Debug\TersVeDuzKontrolPalindrom.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\TersVeDuzKontrolPalindrom\obj\Debug\TersVeDuzKontrolPalindrom.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\TersVeDuzKontrolPalindrom\obj\Debug\TersVeDuzKontrolPalindrom.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\TersVeDuzKontrolPalindrom\obj\Debug\TersVeDuzKontrolPalindrom.pdb

@@ -1,0 +1,7 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\SoruCozumleri\bin\Debug\SoruCozumleri.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\SoruCozumleri\bin\Debug\SoruCozumleri.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\SoruCozumleri\bin\Debug\SoruCozumleri.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\SoruCozumleri\obj\Debug\SoruCozumleri.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\SoruCozumleri\obj\Debug\SoruCozumleri.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\SoruCozumleri\obj\Debug\SoruCozumleri.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\SoruCozumleri\obj\Debug\SoruCozumleri.pdb

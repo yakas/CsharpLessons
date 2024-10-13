@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj": {}
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj": {
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj",
+        "projectUniqueName": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj",
         "projectName": "CokBoyutluDiziOrnekleri",
-        "projectPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj",
+        "projectPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\CokBoyutluDiziOrnekleri.csproj",
         "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\CokBoyutluDiziOrnekleri\\obj\\",
         "projectStyle": "PackageReference",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

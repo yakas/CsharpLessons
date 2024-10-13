@@ -25,6 +25,7 @@ namespace ClassSamples
             Console.WriteLine(araba2.arabaModel);
             Console.WriteLine(araba2.arabaRengi);
             Console.WriteLine(araba2.kapiSayisi);
+            Console.Read();
 
 
 

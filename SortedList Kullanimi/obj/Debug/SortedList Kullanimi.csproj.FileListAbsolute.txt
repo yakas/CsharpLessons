@@ -1,0 +1,7 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\SortedList Kullanimi\bin\Debug\SortedList Kullanimi.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\SortedList Kullanimi\bin\Debug\SortedList Kullanimi.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\SortedList Kullanimi\bin\Debug\SortedList Kullanimi.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\SortedList Kullanimi\obj\Debug\SortedList Kullanimi.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\SortedList Kullanimi\obj\Debug\SortedList Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\SortedList Kullanimi\obj\Debug\SortedList Kullanimi.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\SortedList Kullanimi\obj\Debug\SortedList Kullanimi.pdb

@@ -1,0 +1,7 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\ObjectType\bin\Debug\ObjectType.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\ObjectType\bin\Debug\ObjectType.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\ObjectType\bin\Debug\ObjectType.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\ObjectType\obj\Debug\ObjectType.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\ObjectType\obj\Debug\ObjectType.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\ObjectType\obj\Debug\ObjectType.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\ObjectType\obj\Debug\ObjectType.pdb

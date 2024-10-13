@@ -1,0 +1,7 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\NonGenericKoleksiyonlar\bin\Debug\NonGenericKoleksiyonlar.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\NonGenericKoleksiyonlar\bin\Debug\NonGenericKoleksiyonlar.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\NonGenericKoleksiyonlar\bin\Debug\NonGenericKoleksiyonlar.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\NonGenericKoleksiyonlar\obj\Debug\NonGenericKoleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\NonGenericKoleksiyonlar\obj\Debug\NonGenericKoleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\NonGenericKoleksiyonlar\obj\Debug\NonGenericKoleksiyonlar.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\NonGenericKoleksiyonlar\obj\Debug\NonGenericKoleksiyonlar.pdb

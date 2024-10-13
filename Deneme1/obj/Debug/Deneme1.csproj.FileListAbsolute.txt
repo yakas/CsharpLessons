@@ -1,0 +1,7 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme1\bin\Debug\Deneme1.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme1\bin\Debug\Deneme1.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme1\bin\Debug\Deneme1.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme1\obj\Debug\Deneme1.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme1\obj\Debug\Deneme1.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme1\obj\Debug\Deneme1.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\Deneme1\obj\Debug\Deneme1.pdb

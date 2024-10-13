@@ -1,0 +1,7 @@
+C:\Users\yakup\Source\Repos\CsharpLessons\DictionaryListeler\bin\Debug\DictionaryListeler.exe.config
+C:\Users\yakup\Source\Repos\CsharpLessons\DictionaryListeler\bin\Debug\DictionaryListeler.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\DictionaryListeler\bin\Debug\DictionaryListeler.pdb
+C:\Users\yakup\Source\Repos\CsharpLessons\DictionaryListeler\obj\Debug\DictionaryListeler.csproj.AssemblyReference.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\DictionaryListeler\obj\Debug\DictionaryListeler.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Source\Repos\CsharpLessons\DictionaryListeler\obj\Debug\DictionaryListeler.exe
+C:\Users\yakup\Source\Repos\CsharpLessons\DictionaryListeler\obj\Debug\DictionaryListeler.pdb

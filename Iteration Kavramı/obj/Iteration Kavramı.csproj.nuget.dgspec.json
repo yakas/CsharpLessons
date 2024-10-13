@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj": {}
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj": {
+    "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj",
+        "projectUniqueName": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj",
         "projectName": "Iteration Kavramı",
-        "projectPath": "C:\\Users\\yakup\\source\\repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj",
+        "projectPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Iteration Kavramı\\Iteration Kavramı.csproj",
         "packagesPath": "C:\\Users\\yakup\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\yakup\\Source\\Repos\\CsharpLessons\\Iteration Kavramı\\obj\\",
         "projectStyle": "PackageReference",
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,6 +12,8 @@ namespace OgrenciUygulamasi
         {
             Ogrenci ogr1 = new Ogrenci(23, "yakup", "atalay", 55, 78, 65, "Karadeniz Teknik Universitesi");
             
+
+            
             bool kontrol = true;
             
             
@@ -25,7 +27,7 @@ namespace OgrenciUygulamasi
                 Islemler();
 
                 int secim = int.Parse(Console.ReadLine());
-               
+                            
 
                 switch (secim)
                     {
